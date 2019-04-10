@@ -14,4 +14,3 @@ KNN (sklear.neighbors)
     i.	BallTree
     ii.	KDTree
     iii.	Brute-force
-
